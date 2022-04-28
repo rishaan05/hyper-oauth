@@ -12,7 +12,7 @@ Currently only oauth functionality is built.
 
 ### Usage
 ```javascript
-const Hyper = require('@yummy05/hyper-oauth');
+const Hyper = require('hyper-oauth');
 const hyper = new Hyper({
   domain: 'https://yummyfnf.hyper.co',
   publishableKey: 'pk_...',
@@ -29,7 +29,7 @@ const hyper = new Hyper({
 
 ### Usage
 ```javascript
-const Hyper = require('@yummy05/hyper-oauth');
+const Hyper = require('hyper-oauth');
 const hyper = new Hyper({ domain: "https://yummyfnf.hyper.co"});
 
 const result = await hyper.oauth.authorize();
