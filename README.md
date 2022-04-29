@@ -2,8 +2,6 @@
 
 You can view official api documentation [here](https://docs.hyper.co/)
 
-> ⚠️ This sdk is still being developed. Do not use in production in and expect breaking changes between versions.
-
 Currently only oauth functionality is built. 
 
 # Features 
